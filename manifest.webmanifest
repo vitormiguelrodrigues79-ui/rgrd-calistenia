@@ -1,9 +1,11 @@
 {
-  "name": "RGRD — Calistenia",
-  "short_name": "RGRD",
-  "start_url": "./",
+  "name": "Aasgard Training",
+  "short_name": "Aasgard",
+  "start_url": "./index.html?v=1.1.0",
   "display": "standalone",
   "background_color": "#F5F6F5",
   "theme_color": "#55F000",
-  "icons": []
+  "icons": [
+    {"src":"icon.svg?v=1.1.0","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+  ]
 }
